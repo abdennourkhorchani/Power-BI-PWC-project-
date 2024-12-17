@@ -17,7 +17,7 @@ Create a dashboard in Power BI  that reflects all relevant Key Performance Indic
 * Average speed of answer
 * Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-**Task 2:Telecom Churn and Retention Dashboard**
+**Task 2: Telecom Churn and Retention Dashboard**
 
 * Define proper key performance indicators (KPIs) related to customer retention.
 * Create a dashboard that visualizes customer demographics and insights.
