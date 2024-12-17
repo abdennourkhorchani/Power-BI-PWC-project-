@@ -1,4 +1,4 @@
-#Call Center Trends
+**Call Center Trends**
 
 * Create a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided.
 * Respond to the client's request by providing a well-designed Power BI dashboard reflecting the requested KPIs : 
