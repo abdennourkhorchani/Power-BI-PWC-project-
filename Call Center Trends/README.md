@@ -7,3 +7,4 @@
     - Calls by time
     - Average speed of answer
     - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+![Capture](https://github.com/user-attachments/assets/f7b72fda-55d0-44bf-bdd6-abad73265b19)
